@@ -1,5 +1,6 @@
 # CS426 PlacePipi Tourist App, Landmark Recognition
 Source code for final project of CS426 (Mobile Device Application Development) course at HCMUS.
+
 Team members:
 - Khanh Nguyen Ba Nhat (https://github.com/nbnkhanh)
 
