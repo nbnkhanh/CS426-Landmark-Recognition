@@ -15,6 +15,7 @@ Some other features: Tesseract OCR for Vietnamese, currency converter (using API
 sharing...
 
 #References:
+
 https://github.com/shackenberg/Minimal-Bag-of-Visual-Words-Image-Classifier
 
 https://github.com/tesseract-ocr/tesseract
