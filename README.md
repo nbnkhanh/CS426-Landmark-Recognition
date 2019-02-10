@@ -18,3 +18,5 @@ sharing...
 https://github.com/shackenberg/Minimal-Bag-of-Visual-Words-Image-Classifier
 https://github.com/tesseract-ocr/tesseract
 https://github.com/hongyangAndroid/Android-CircleMenu
+
+Advised by Assoc. Prof. Triet Tran Minh and Mr. Thanh-An Nguyen.
