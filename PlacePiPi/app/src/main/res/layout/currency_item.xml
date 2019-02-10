@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+    <FrameLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:id="@+id/img_flag"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:src="@drawable/usd3"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            />
+
+        <RadioButton
+            android:id="@+id/btn_choose"
+            android:layout_gravity="bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="USD"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:background="@color/colorPrimaryDark"
+            />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="20dp"
+        android:layout_height="100dp">
+
+    </LinearLayout>
+</LinearLayout>
