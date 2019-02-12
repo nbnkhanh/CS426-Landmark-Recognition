@@ -14,13 +14,14 @@ displays to the user.
 Some other features: Tesseract OCR for Vietnamese, currency converter (using API to get the current rate), Favorite place list, Facebook
 sharing...
 
-#References:
+Developed by Android Studio.
+
+Advised by Assoc. Prof. Triet Tran Minh and Mr. Thanh-An Nguyen.
+
+# References:
 
 https://github.com/shackenberg/Minimal-Bag-of-Visual-Words-Image-Classifier
 
 https://github.com/tesseract-ocr/tesseract
 
 https://github.com/hongyangAndroid/Android-CircleMenu
-
-
-Advised by Assoc. Prof. Triet Tran Minh and Mr. Thanh-An Nguyen.
